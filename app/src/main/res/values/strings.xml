@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mainak</string>
+    <string name="tile_name">Mainak</string>
+
+	<string name="sharedPrefId">QuickSetting</string>
+	<string name="userDefaultTimeout">users_default_timeout</string>
+
+</resources>
